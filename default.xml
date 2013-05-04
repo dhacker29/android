@@ -8,13 +8,13 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="android" remote="cr" revision="jb2" />
-  <project path="bionic" name="android_bionic" remote="cr" revision="stock" />
+  <project path="bionic" name="android_bionic" remote="cr" revision="jb2" />
   <project path="dalvik" name="android_dalvik" remote="cr" revision="cm-10.1-linaro" />
   <project path="development" name="android_development" remote="cr" revision="jb2" />
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/asus/tilapia" name="android_device_asus_tilapia" remote="cr" revision="jb2" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="cr" revision="jb2" />
-  <project path="device/htc/m7" name="android_device_htc_m7" remote="cr" revision="cm-10.1" />
+  <project path="device/htc/m7" name="android_device_htc_m7" remote="cr" revision="jb2" />
   <project path="device/htc/ville" name="android_device_htc_ville" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/motorola/maserati" name="android_device_motorola_maserati" remote="cr" revision="jb2" />
@@ -74,7 +74,7 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cr" revision="jb2" />
   <project path="frameworks/rs" name="frameworks_rs" remote="cr" revision="jb2" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cr" revision="jb2" />
-  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cr" revision="cm-10.1" />
+  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cr" revision="jb2" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cr" revision="jb2" />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="cr" revision="jb2" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cr" revision="cm-10.1" />
@@ -95,10 +95,10 @@
   <project path="prebuilts/gcc/linux-x86/arm" name="android_toolchain_4.4.3" remote="cr" revision="jb2" />
   <project path="prebuilts/misc" name="android_prebuilts_misc" remote="cr" revision="jb2" />
   <project path="system/core" name="android_system_core" remote="cr" revision="jb2" />
-  <project path="system/extras" name="android_system_extras" remote="cr" revision="cm-10.1-linaro" />
+  <project path="system/extras" name="android_system_extras" remote="cr" revision="jb2" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="cr" revision="jb2" />
   <project path="vendor/carbon" name="android_vendor_carbon" remote="cr" revision="jb2" />
   <project path="vendor/lge" name="android_vendor_lge" remote="cr" revision="jb2" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cr" revision="jb2" />
-  <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="cr" revision="jellybean" />
+  <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="cr" revision="jb2" />
 </manifest>
