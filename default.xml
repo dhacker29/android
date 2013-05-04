@@ -9,7 +9,7 @@
   </project>
   <project path="android" name="android" remote="cr" revision="jb2" />
   <project path="bionic" name="android_bionic" remote="cr" revision="jb2" />
-  <project path="dalvik" name="android_dalvik" remote="cr" revision="cm-10.1-linaro" />
+  <project path="dalvik" name="android_dalvik" remote="cr" revision="jb2" />
   <project path="development" name="android_development" remote="cr" revision="jb2" />
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/asus/tilapia" name="android_device_asus_tilapia" remote="cr" revision="jb2" />
