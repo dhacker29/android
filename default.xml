@@ -13,7 +13,6 @@
   <project path="development" name="android_development" remote="cr" revision="jb2" />
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/asus/tilapia" name="android_device_asus_tilapia" remote="cr" revision="jb2" />
-  <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="cr" revision="jb2" />
   <project path="device/htc/m7" name="android_device_htc_m7" remote="cr" revision="cm-10.1" />
   <project path="device/htc/ville" name="android_device_htc_ville" remote="cr" revision="jb2" />
